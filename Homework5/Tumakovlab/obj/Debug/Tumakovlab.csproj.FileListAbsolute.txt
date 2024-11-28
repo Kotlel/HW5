@@ -1,0 +1,7 @@
+C:\Users\Kotlel\source\repos\Homework5\Tumakovlab\obj\Debug\Tumakovlab.csproj.AssemblyReference.cache
+C:\Users\Kotlel\source\repos\Homework5\Tumakovlab\obj\Debug\Tumakovlab.csproj.CoreCompileInputs.cache
+C:\Users\Kotlel\source\repos\Homework5\Tumakovlab\bin\Debug\Tumakovlab.exe.config
+C:\Users\Kotlel\source\repos\Homework5\Tumakovlab\bin\Debug\Tumakovlab.exe
+C:\Users\Kotlel\source\repos\Homework5\Tumakovlab\bin\Debug\Tumakovlab.pdb
+C:\Users\Kotlel\source\repos\Homework5\Tumakovlab\obj\Debug\Tumakovlab.exe
+C:\Users\Kotlel\source\repos\Homework5\Tumakovlab\obj\Debug\Tumakovlab.pdb
